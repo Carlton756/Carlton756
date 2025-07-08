@@ -1,5 +1,7 @@
 # Welcome to my GitHub page, where my portfolio comes to like as I work on and showcase real-world projects
 
+
+
 ## About Me
 
 Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into meaningful and actionable insights. My expertise lies in Excel, SQL, Python, Looker Studio, Tableau, and Power BI. I am learning day by day with the intention to be the best I can possibly be in the are of data analysis.
