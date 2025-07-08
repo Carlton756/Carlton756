@@ -7,4 +7,11 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - 📫 My linkedin handle: www.linkedin.com/in/carlton-francis-967435314
 - ⚡ Fun fact: I am a Jamaican native and as you know Jamaica is known for Reggae and the home of the world's fastest man, Usain Bolt.
 
+## My Interests:
+- Excel, Power BI, Tableau, Python & SQL
+- Data Visualisation
+- Business Intelligence
+- Machine Learning
+
+
 
