@@ -1,4 +1,4 @@
-# Welcome all to my GitHub page, where my portfolio comes to like as I work on and showcase real-world projects
+# Welcome to my GitHub page, where my portfolio comes to like as I work on and showcase real-world projects
 
 ## About Me
 
