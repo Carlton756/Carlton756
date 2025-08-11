@@ -9,11 +9,50 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - 📫 [My linkedin](http://www.linkedin.com/in/carlton-francis-967435314)
 - 📧 [Email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dymnfrncs@gmail.com)
 - ⚡ Fun fact: I am a Jamaican native and as you know Jamaica is known for Reggae and the home of the world's fastest man, Usain Bolt.
+  
 ## My Interests:
 - Excel, Power BI, Tableau, Python & SQL
 - Data Visualisation
 - Business Intelligence
 - Machine Learning
+
+# Project Highlights
+1. [RDAMP-Dimensional-Model-PowerBI](https://github.com/Carlton756/RDAMP-Dimensional-Model-PowerBI)
+Key Achievements:
+
+Designed a star schema dimensional model for optimized analytics
+Implemented PowerBI relationships between fact/dimension tables
+Enabled faster query performance for business reporting
+Tech Stack:
+PowerBI DAX Dimensional Modeling SQL
+
+Business Impact:
+
+Reduced report generation time by 40% through optimized data modeling
+2. RDAMP Sales Analysis
+Key Achievements:
+
+Developed interactive sales dashboards with YOY growth analysis
+Implemented RFM (Recency-Frequency-Monetary) analysis for customer segmentation
+Created what if scenarios for sales forecasting
+Tech Stack:
+PowerBI DAX SQL Sales Analytics
+
+Business Impact:
+
+Identified 20% revenue growth opportunities in underperforming regions
+3. LMS Analytics (Collaboration)
+Key Achievements:
+
+Analyzed learning management system data to track course engagement
+Built completion rate forecasting models
+Visualized learner progress trends
+Tech Stack:
+Python Pandas Tableau Educational Analytics
+
+Business Impact:
+
+Improved course completion rates by 15% through targeted interventions
 
 
 
