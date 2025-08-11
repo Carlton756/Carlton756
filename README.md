@@ -19,7 +19,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 # Projects
 [RDAMP-Sales-Analysis](https://github.com/Carlton756/RDAMP-Sales-Analysis)
 ### Key Achievements
-##### This project was done using a dataset provided by **Realcare Tech Mark Ltd** as a means of fine tuning my data analytics skills. It showcases my ability to create an introductory business report summarizing key sales performance trends. This project was used as a segway into the RDAMP Dimensional Model PowerBI project.
+##### This project was done using a dataset provided by ***Realcare Tech Mark Ltd*** as a means of fine tuning my data analytics skills. It showcases my ability to create an introductory business report summarizing key sales performance trends. This project was used as a segway into the RDAMP Dimensional Model PowerBI project.
 - Data cleaning
 - Created interactive dashboards highlighting sales insights over a two year period
 - Created DAX measures
@@ -33,7 +33,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
   
 [RDAMP-Dimensional-Model-PowerBI](https://github.com/Carlton756/RDAMP-Dimensional-Model-PowerBI)
 ### Key Achievements
-#### This project was done using a dataset provided by Realcare Tech Mark Ltd as a means to fine tune my data analytics skills. It showcases my ability to build a scalable pipeline to power enterprise reporting.
+##### This project was done using a dataset provided by ***Realcare Tech Mark Ltd*** as a means to fine tune my data analytics skills. It showcases my ability to build a scalable pipeline to power enterprise reporting.
 - Data cleaning
 - Created a database along with fact and dimention tables using PostgreSQL which facilitated the implementation of a star schema dimensional model for optimized reporting
 - Created reusable view queries to improve efficiency of model
@@ -49,7 +49,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 
 [RDAMP_LMS_Analytics_RCHG](https://github.com/Carlton756/RDAMP_LMS_Analytics_RCHG) 
 ### Key Achievements
-#### This project was done using a dataset provided by ***Realcare Tech Mark Ltd*** as a means of fine tuning my data analytics skills. It showcases my ability to create a Learning Management System (LMS), which the business could use to centrlize learning efforts. The project was a collaborative effort which also showcased my ability to work within a team to achieve results through insightful and interactive dashboards that would prove to be beneficial to any business.
+##### This project was done using a dataset provided by ***Realcare Tech Mark Ltd*** as a means of fine tuning my data analytics skills. It showcases my ability to create a Learning Management System (LMS), which the business could use to centrlize learning efforts. The project was a collaborative effort which also showcased my ability to work within a team to achieve results through insightful and interactive dashboards that would prove to be beneficial to any business.
 
 - Conducted Exploratory Data Analysis of learning management system data to monitor course engagement
 - Created fact and dimension tables to facilitate star schema relational diagram
