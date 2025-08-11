@@ -67,4 +67,21 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 ### Business Impact
 - Business would be able to use this model to centralize learning efforts and devise strategies to improve staff training, compliance, and performance outcomes.
 
+[Market-Trend-Analysis-of-Data-Roles-in-the-U.S.](https://github.com/Carlton756/Market-Trend-Analysis-of-Data-Roles-in-the-U.S.)
+### Key Achievements
+##### This project is a collaborative one, where I worked with others to provide insights for aspiring data professionals seeking employment within the US. This was my first project where I was able to showcase the skills I acquired while transitioning into data analytics.
+
+- Conducted EDA on a dataset obtained from Kaggle
+- Queried datasets withinBigQuery
+- Performed data cleaning, preprocessing and transformation using Python/Google Colab
+- Used Looker Studio to create insightful and interactive dashboards
+- Proposed insights for aspiring data professionals
+
+### Tech Stack
+```Excel``` ```SQL/BigQuery``` ```Python (Google Colab/Jupyter Notebook``` ```Looker Studio```
+### Data Professional Impact
+- From this model a data profession would be able to assess the existing high paid jobs, where these jobs are located with the US, the various skills required for the various job roles and the more in demand skills utilized in the US. This infomation would also help a data professional to assess the skills they would need to prioritise as they upskill.
+
+
+
 
