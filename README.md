@@ -1,4 +1,5 @@
 # Welcome to my GitHub page, where my portfolio comes to life as I work on real-world projects, while showcasing my skills
+Explore my repositories to uncover additional projects and deeper insights into my work.
 
 ## About Me
 Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into meaningful and actionable insights. I am learning day by day with the intention to be the best I can possibly as a data analyst.
@@ -24,7 +25,6 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - 📫 [My linkedin](http://www.linkedin.com/in/carlton-francis-967435314)
 - 📧 [Email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dymnfrncs@gmail.com)
 - 🔗 [GitHub Profile](https://github.com/Carlton756)
-- ⚡ Fun fact: I am a Jamaican native and as you know Jamaica is known for Reggae and the home of the world's fastest man, Usain Bolt.
   
 ## My Interests
 - Excel, Power BI, Tableau, Python & SQL
@@ -32,7 +32,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - Business Intelligence
 - Machine Learning
 
-# Projects
+# Project Portfolio
 [RDAMP-Sales-Analysis](https://github.com/Carlton756/RDAMP-Sales-Analysis)
 ### Key Achievements
 ##### This project was done using a dataset provided by ***Realcare Tech Mark Ltd*** as a means of fine tuning my data analytics skills. It showcases my ability to create an introductory business report summarizing key sales performance trends. This project was used as a segway into the RDAMP Dimensional Model PowerBI project.
