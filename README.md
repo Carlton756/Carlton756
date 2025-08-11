@@ -19,7 +19,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 # Projects
 [RDAMP-Sales-Analysis](https://github.com/Carlton756/RDAMP-Sales-Analysis)
 ### Key Achievements
-#### This project was done using a dataset provided by Realcare Tech Mark Ltd as a means of fine tuning my data analytics skills. It showcases my ability to create an introductory business report summarizing key sales performance trends. This project was used as a segway into the RDAMP Dimensional Model PowerBI project.
+##### This project was done using a dataset provided by **Realcare Tech Mark Ltd** as a means of fine tuning my data analytics skills. It showcases my ability to create an introductory business report summarizing key sales performance trends. This project was used as a segway into the RDAMP Dimensional Model PowerBI project.
 - Data cleaning
 - Created interactive dashboards highlighting sales insights over a two year period
 - Created DAX measures
