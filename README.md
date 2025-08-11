@@ -20,7 +20,8 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 [RDAMP-Dimensional-Model-PowerBI](https://github.com/Carlton756/RDAMP-Dimensional-Model-PowerBI)
 
 ### Key Achievements:
-
+#### This project was done using a dataset provided by Realcare Tech Mark as a means to fine tune my data analytics skills.This project showcases my ability to build a scalable pipeline to power enterprise reporting.
+- Data cleaning
 - Created a database along with fact and dimention tables using PostgreSQL which facilitated the implementation of a star schema dimensional model for optimized reporting
 - Created reusable view queries to improve efficiency of model
 - Formed PowerBI relationships between fact/dimension tables
@@ -28,21 +29,22 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 ### Tech Stack:
 ```Excel``` ```PowerBI``` ```DAX Dimensional Modeling``` ```PostgreSQL```
 
-Business Impact:
+### Business Impact:
+- The business is able to analyze performance from multiple angles using this data model which is designed for usability and scalability.
 
-Reduced report generation time by 40% through optimized data modeling
-2. RDAMP Sales Analysis
-Key Achievements:
+[RDAMP-Sales-Analysis](https://github.com/Carlton756/RDAMP-Sales-Analysis)
+### Key Achievements:
 
-Developed interactive sales dashboards with YOY growth analysis
+- Data cleaning
+- Created interactive dashboards highlighting sales insights over a two year period
 Implemented RFM (Recency-Frequency-Monetary) analysis for customer segmentation
 Created what if scenarios for sales forecasting
-Tech Stack:
-PowerBI DAX SQL Sales Analytics
+### Tech Stack
+```Excel``` ```PowerBI``` ```DAX```
 
-Business Impact:
+### Business Impact
 
-Identified 20% revenue growth opportunities in underperforming regions
+- The business is able to identify regional performance gaps, customer behaviour patterns, and product category profitability. This will will further assist the executive team to focus on high impact areas when devising strategies.
 3. LMS Analytics (Collaboration)
 Key Achievements:
 
