@@ -57,6 +57,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - Performed statistical analysis using python
 - Proposed strategic recommendations
 - Used Power BI to generate insightful dashboards
+- Used Slack channel for communication with other project members
 
 ### Tech Stack
 ```Excel``` ```Python``` ```Power BI```
