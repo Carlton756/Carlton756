@@ -8,6 +8,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - 💞️ I’m looking to collaborate on data projects and work with others to develop my skills and to encourage others who are new to the field to grow and develop as well.
 - 📫 [My linkedin](http://www.linkedin.com/in/carlton-francis-967435314)
 - 📧 [Email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dymnfrncs@gmail.com)
+- 🔗 [GitHub Profile](https://github.com/Carlton756)
 - ⚡ Fun fact: I am a Jamaican native and as you know Jamaica is known for Reggae and the home of the world's fastest man, Usain Bolt.
   
 ## My Interests
