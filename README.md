@@ -16,15 +16,17 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - Business Intelligence
 - Machine Learning
 
-# Project Highlights
-1. [RDAMP-Dimensional-Model-PowerBI](https://github.com/Carlton756/RDAMP-Dimensional-Model-PowerBI)
-Key Achievements:
+# Projects
+[RDAMP-Dimensional-Model-PowerBI](https://github.com/Carlton756/RDAMP-Dimensional-Model-PowerBI)
 
-Designed a star schema dimensional model for optimized analytics
-Implemented PowerBI relationships between fact/dimension tables
-Enabled faster query performance for business reporting
-Tech Stack:
-PowerBI DAX Dimensional Modeling SQL
+### Key Achievements:
+
+- Created a database along with fact and dimention tables using PostgreSQL which facilitated the implementation of a star schema dimensional model for optimized reporting
+- Created reusable view queries to improve efficiency of model
+- Formed PowerBI relationships between fact/dimension tables
+
+### Tech Stack:
+```Excel``` ```PowerBI``` ```DAX Dimensional Modeling``` ```PostgreSQL```
 
 Business Impact:
 
