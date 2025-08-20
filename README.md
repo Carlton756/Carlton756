@@ -22,6 +22,7 @@ Hi, I’m Carlton - an aspiring data analyst, passionate about turning data into
 - Machine Learning
 
 ## 🤝 Let's Connect
+- 🔗 [My website](https://carlton-francis-portfolio.lovable.app)
 - 📫 [My linkedin](http://www.linkedin.com/in/carlton-francis-967435314)
 - 📧 [Email me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dymnfrncs@gmail.com)
 - 🔗 [GitHub Profile](https://github.com/Carlton756)
